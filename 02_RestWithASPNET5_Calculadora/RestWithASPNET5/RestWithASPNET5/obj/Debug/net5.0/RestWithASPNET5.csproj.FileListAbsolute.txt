@@ -51,3 +51,5 @@ D:\Projetos\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET5_Calculadora\Res
 D:\Projetos\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET5_Calculadora\RestWithASPNET5\RestWithASPNET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\Projetos\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET5_Calculadora\RestWithASPNET5\RestWithASPNET5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Projetos\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET5_Calculadora\RestWithASPNET5\RestWithASPNET5\obj\Debug\net5.0\RestWithASPNET5.csproj.AssemblyReference.cache
+D:\Projetos\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET5_Calculadora\RestWithASPNET5\RestWithASPNET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Projetos\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET5_Calculadora\RestWithASPNET5\RestWithASPNET5\obj\Debug\net5.0\RestWithASPNET5.MvcApplicationPartsAssemblyInfo.cs
